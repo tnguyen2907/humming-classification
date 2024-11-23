@@ -1,0 +1,9 @@
+audio/**
+ignore.*
+ignore/**
+generation/**
+vggish_attempt/**
+metadata.csv
+*.h5
+*.npy
+*.csv
